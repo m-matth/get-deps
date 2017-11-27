@@ -1,4 +1,5 @@
-# get-deps
+# get-deps [![TravisCI](https://travis-ci.org/matth-/get-deps.svg)](https://travis-ci.org/matth-/get-deps) 
+
 retrieve package dependencies from import in haskell source code
 
 
